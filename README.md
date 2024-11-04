@@ -5,9 +5,9 @@ This repository contains a collection of SQL queries designed to analyze COVID-1
 **Data Sources:
 
 The Data Source is retrieved from Our World in Data Github Repository and 
--[CovidCasesLatest: Contains daily new cases and deaths by location.] Retrieved from: https://github.com/owid/covid-19-data/public/data/cases_deaths/full_data.csv
--[CovidVaxLatest]: Contains daily vaccination data by location. Retrieved from: (https://github.com/owid/covid-19-data/blob/c6b482425695ed67d3fff85ce614fc4189cf2c17/public/data/vaccinations/vaccinations.csv)
--[WorldPopulation: Provides population data for different countries.] Retrieved from: https://population.un.org/wpp/Download/Standard/CSV/
+-[CovidCasesLatest:](https://github.com/owid/covid-19-data/blob/c6b482425695ed67d3fff85ce614fc4189cf2c17/public/data/cases_deaths/full_data.csv): Contains daily new cases and deaths by location. Retrieved from:
+-[CovidVaxLatest](https://github.com/owid/covid-19-data/blob/c6b482425695ed67d3fff85ce614fc4189cf2c17/public/data/vaccinations/vaccinations.csv): Contains daily vaccination data by location.
+-[WorldPopulation: Provides population data for different countries.](https://population.un.org/wpp/Download/Standard/CSV/)
 
 **World Data Analysis:
 
